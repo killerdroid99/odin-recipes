@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    margin: 1rem 1rem;
+    color: rgb(153, 0, 8);
+}
+
+img {
+    height: 60vh;
+    width: 55vw;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 5px rgb(73, 73, 73);
+    margin: 1rem 1rem;
+}
+
+
+h2 {
+    margin: 1rem 2rem;
+    color: rgb(17, 184, 11);
+    border-top: solid 1px black;
+}
+
+p {
+    margin: 0rem 2.5rem;
+}
+
+ul {
+    margin-left: 2.5rem;
+}
+
+ol {
+    margin-left: 2.5rem;
+}
+
+li {
+    padding: 0.5rem;
+}

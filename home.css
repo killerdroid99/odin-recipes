@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    background-color: rgb(160, 128, 24);
+    font-family: sans-serif;
+    color: whitesmoke;
+    width: 100vw;
+    text-align: center;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    position: absolute;
+    z-index: -1;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+ul li {
+    margin-top: 7rem;
+    list-style: square;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(1, 61, 28);
+}
+
+a:hover {
+    color: blue;
+}
